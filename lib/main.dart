@@ -9,7 +9,7 @@ class todoapp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'To Do dwhgydgyTasks',
+      title: 'To Do Tasks',
       home: homelayoutscreen(),
     );
   }
